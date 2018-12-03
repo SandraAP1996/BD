@@ -5,7 +5,8 @@
     <body>
 
         <!-----      COMENTARIO PARA GITHUB       ----->
-        
+        <!-----      COMENTRIO DESDE GITHUB       ----->
+
         <?php
         /////////////////////////////////////////////////////////////////      CONEXION A LA BASE DE DATOS STOCK
         @$dwes = new mysqli('localhost','root', '', 'discografia');
